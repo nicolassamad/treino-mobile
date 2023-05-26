@@ -1,6 +1,6 @@
-# treino-mobile
-site experimental para trabalhar com mobile-first
+# Treino-mobile-first
+Site experimental para trabalhar o mobile-first
 ---
-## aula 09\05
+## Aula 09/05
 
-* preparando os arquivos 
+* Preparando os arquivos do site
