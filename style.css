@@ -2,10 +2,10 @@
 @import url("style/banner.css");
 
 :root{
-    --cor-de-fundo:#EBECEE;
-    --branco:#ffffff;
-    --laranja: #e1e7e7;
-    --preto:#f5d8d8;
+    --cor-de-fundo:#305df1;
+    --branco:#1ba7e9;
+    --laranja: #3661d8;
+    --preto:#070101;
     --azul-degrade: #2b05ff;
     --fonte-principal:"Poppins";
     --fonte-secundaria:"Josefin Sans";
